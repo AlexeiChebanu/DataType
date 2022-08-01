@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\bin\Debug\VarProj010822.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\bin\Debug\VarProj010822.exe
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\bin\Debug\VarProj010822.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\obj\Debug\VarProj010822.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\obj\Debug\VarProj010822.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\obj\Debug\VarProj010822.exe
+C:\Users\User\Desktop\Self-education\Beetroot\VarProj010822\VarProj010822\obj\Debug\VarProj010822.pdb
